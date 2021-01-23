@@ -14,7 +14,7 @@ Simply run ***pip install -r requirements.txt*** to install the necessary depend
 
 ## Final Plotly Webapp would look like this in your favourite web-browser :wink: : 
 <kbd>
-<img src="" data-canonical-src=""/> 
+<img src="https://user-images.githubusercontent.com/29462447/105572675-a460c580-5d7e-11eb-927d-7416ef820171.gif" data-canonical-src="https://user-images.githubusercontent.com/29462447/105572675-a460c580-5d7e-11eb-927d-7416ef820171.gif"/> 
 </kbd>
 
 ## Running the Dockerized App
