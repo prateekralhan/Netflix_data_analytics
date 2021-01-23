@@ -1,0 +1,118 @@
+body{
+margin:0px;
+background-color:#342c47;
+}
+
+
+
+#header{
+background-color:#E50914;
+display:flex;
+justify-content:flex-start;
+margin:0 auto;
+padding-top:10px;
+padding-bottom:10px;
+padding-left:10px; 
+padding-right:10px;
+}
+
+#header-logo{
+display:inline-flex;
+justify-content:center;
+}
+#header-text{
+font-size:30px;
+display:inline-flex;
+align-items:center;
+margin:0 auto;
+font-weight:bold;
+color:#30404D;
+
+}
+
+/*
+#firstGraphDiv{
+width:300px;
+height:250px;
+}
+
+#secondGraphDiv{
+width:300px;
+height:250px;
+}
+
+*/
+
+body{
+background-color:#1e1e2e;
+}
+
+#graph1Insights{
+padding-left:20px;
+padding-right:20px;
+}
+
+#graph2Insights{
+padding-left:20px;
+padding-right:20px;
+}
+#graph3Insights{
+padding-left:20px;
+padding-right:20px;
+}
+#graph4Insights{
+padding-left:20px;
+padding-right:20px;
+}
+
+#graph5Insights{
+padding-left:20px;
+padding-right:20px;
+}
+Td{
+color:white;
+  margin-left: 5px;
+  margin-right: 5px;
+  marker-start: 5px;
+  margin-bottom: 5px;
+}
+#val3{
+background-color:#1e1e2e;
+border:none;
+color:white;
+  margin-left: 5px;
+  margin-right: 5px;
+  marker-start: 5px;
+  margin-bottom: 5px;
+}
+
+#val4{
+background-color:#1e1e2e;
+border:none;
+color:white;
+  margin-left: 5px;
+  margin-right: 5px;
+  marker-start: 5px;
+  margin-bottom: 5px;
+}
+
+#calculator{
+color:white;
+font-size:18px;
+  margin-left: 5px;
+  margin-right: 5px;
+  marker-start: 5px;
+  margin-bottom: 5px;
+}
+
+table, th,td {
+  border: 2px solid #342c47;
+  margin-left: 5px;
+  margin-right: 5px;
+  marker-start: 5px;
+  margin-bottom: 5px;
+}
+
+table{
+margin:25px auto;
+}
