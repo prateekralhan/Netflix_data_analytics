@@ -1,4 +1,4 @@
-# Netflix Data analytics <a href="https://emoji.gg/emoji/3266_Netflix"><img src="https://emoji.gg/assets/emoji/3266_Netflix.png" width="35px" height="35px" alt="Netflix"></a>
+# Netflix Data analytics <a href="https://emoji.gg/emoji/3266_Netflix"><img src="https://emoji.gg/assets/emoji/3266_Netflix.png" width="35px" height="35px" alt="Netflix"></a> [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 
 ### Live Web-App available [here.](https://netflix-webapp.herokuapp.com/)
 
