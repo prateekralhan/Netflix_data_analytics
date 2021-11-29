@@ -1,4 +1,5 @@
-# Netflix Data analytics <a href="https://emoji.gg/emoji/3266_Netflix"><img src="https://emoji.gg/assets/emoji/3266_Netflix.png" width="35px" height="35px" alt="Netflix"></a> [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
+# Netflix Data analytics <a href="https://emoji.gg/emoji/3266_Netflix"><img src="https://emoji.gg/assets/emoji/3266_Netflix.png" width="35px" height="35px" alt="Netflix"></a> [![Project Status: Active](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) [![](https://img.shields.io/badge/Prateek-Ralhan-brightgreen.svg?colorB=ff0000)](https://prateekralhan.github.io/)
+
 
 ### Live Web-App available [here.](https://netflix-webapp.herokuapp.com/)
 
